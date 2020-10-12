@@ -28,6 +28,8 @@ if ($result->num_rows > 0) {
 }
 $conn->close();
 ?>
+array_values($cos)
+array_keys($cos)
 ```
 
 ## Dokumentacja
